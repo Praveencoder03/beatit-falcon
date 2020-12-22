@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route, Switch, Link } from 'react-router-dom'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import Home from './Home/home.js'
 import Footer from './Home/footer.js'
 import Pricing from './components/pricing.js'
